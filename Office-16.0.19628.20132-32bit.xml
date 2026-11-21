@@ -1,0 +1,10 @@
+<Configuration>
+  <Add OfficeClientEdition="32" Channel="Current" Version="16.0.19628.20132">
+    <Product ID="O365HomePremRetail">
+      <Language ID="ar-sa" />
+      <Language ID="en-us" />
+    </Product>
+  </Add>
+  <Updates Enabled="FALSE" />
+  <Display Level="Full" AcceptEULA="FALSE" />
+</Configuration>

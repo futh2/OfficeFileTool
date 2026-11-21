@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.spec
+*.exe
+.env
+.env.*
+*.pem
+*.key
+.vscode/
+.idea/
+
+# Separate projects and local investigation artifacts.
+/OfficeFileToolCpp/
+/Word Control Addin/
+/verification/
+/Translation screenshots/
+/source/original_word_startup_ui_trial.reference.py
